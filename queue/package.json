@@ -1,0 +1,11 @@
+{
+    "name": "queue",
+    "version": "1.0.0",
+    "description": "",
+    "main": "queue.js",
+    "scripts": {
+        "test": " tsc exe.ts && node exe.js"
+    },
+    "author": "",
+    "license": "ISC"
+}

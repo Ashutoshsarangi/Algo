@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var queue_1 = require("./queue");
+var q = new queue_1.Queue();
+q.addElement(true);
+q.addElement('xyz');
+q.addElement(123);
+q.traverseQueue();
+console.log('--------------');
+q.removeElement();
+q.traverseQueue();
