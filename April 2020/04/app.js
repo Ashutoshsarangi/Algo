@@ -4,6 +4,7 @@
  * @param Num%3  --> Fizz
  * @param Num%5  --> Buzz
  * @param Else Push the Number in the Array. 
+ * @param GOOGLE - FIZZ BUZZ (LeetCode)
  */
 
 n = 15

@@ -4,6 +4,7 @@
  *     return true. 
  * else 
  *     return false
+ * @param GOOGLE - CONTAINS DUPLICATE (LeetCode)
  */
 
 

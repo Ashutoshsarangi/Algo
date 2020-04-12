@@ -1,5 +1,6 @@
 /**
  * @description Reverse a String.
+ * @param MICROSOFT - REVERSE STRING (LeetCode)
  */
 
 let s = 'Hello';

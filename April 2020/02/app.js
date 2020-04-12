@@ -2,6 +2,7 @@
  * @description Check is the Given Number power of 2 or not.
  * @param 218 --> False
  * @param 16 --> true
+ * @param AMAZON - POWER OF TWO (LeetCode)
  */
 
 

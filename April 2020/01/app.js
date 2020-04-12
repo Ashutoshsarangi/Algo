@@ -1,6 +1,7 @@
 /**
  * @description Calculate the total Number of Island, 0--> Water
  * 1 ---> Land the land should have horizontal and vertical lands for island.
+ * @param GOOGLE CODING INTERVIEW QUESTION - NUMBER OF ISLANDS (LeetCode)
  */
 
 
