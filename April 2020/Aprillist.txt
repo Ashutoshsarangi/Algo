@@ -1,0 +1,20 @@
+Week Days
+
+16-> FACEBOOK CODING INTERVIEW QUESTION - BEST TIME TO BUY AND SELL STOCK (LeetCode)
+17-> FACEBOOK - FIRST BAD VERSION (LeetCode)
+20 --> LINKEDIN - PAINT HOUSE (LeetCode)
+21 -->
+22 -->
+23 -->
+24 -->
+27 -->
+28 -->
+29 ->
+30 -->
+
+Week Ends--> 
+18 --> FACEBOOK - VALID PARENTHESES (LeetCode)
+19 --> GOOGLE - BACKSPACE STRING COMPARE (LeetCode)
+25 -->
+26 -->
+
