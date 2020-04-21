@@ -4,6 +4,7 @@ Completed
 2. AMAZON - MISSING NUMBER (LeetCode) 
 3. AMAZON - ROBOT RETURN TO ORIGIN (LeetCode)
 4. GOOGLE - CONTAINS DUPLICATE II (LeetCode)
+5. GOOGLE - FIND THE DIFFERENCE (LeetCode)
 
 Need to Be Completed--> 
 1. GOOGLE - MAJORITY ELEMENT (LeetCode)
