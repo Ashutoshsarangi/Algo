@@ -1,5 +1,14 @@
+completed :-
+ONly HTML Part
 1. https://github.com/yangshun/front-end-interview-handbook
 
+
+
+Next Item:
+1. https://github.com/yangshun/front-end-interview-handbook
+
+
+Pending:-
 2. https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/en/javascript-questions.md
 
 3. https://github.com/jwasham/coding-interview-university
@@ -8,9 +17,164 @@
 
 5. https://github.com/sudheerj/javascript-interview-questions#table-of-contents
 
+6. https://www.guru99.com/javascript-interview-questions-answers.html
+
+7. Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf
+  https://www.youtube.com/watch?v=e-5obm1G_FY
+
+9. Using reduce to code filter and map in vanilla JavaScript
+https://www.youtube.com/watch?v=CZO3AxdkgqM
+
+10. Coding reduce from scratch in vanilla JavaScript
+https://www.youtube.com/watch?v=gU3wOcpbfCM
+
+11. Coding map and filter from scratch in plain JavaScript
+https://www.youtube.com/watch?v=okZ1BG7oP7M
+
+12. Transducers for massive data processing in JavaScript: What, Why and How (Sean May)
+https://www.youtube.com/watch?v=xcGbhU_DtRg
+
+13. Higher-order iterators in JavaScript
+https://www.youtube.com/watch?v=GYRMNp1SKXA
+
+14. Using async generators to stream data in JavaScript
+https://www.youtube.com/watch?v=wrI-Jb0oFyk
+
+15. Generators in JavaScript
+https://www.youtube.com/watch?v=QOnUcU8U_XE
+
+16. Optional Chaining Operator in JavaScript
+https://www.youtube.com/watch?v=FKRVqtP8o48
+
+17. Observable JavaScript playbook, asynchronous generators and hacking the Fun Fun Forum
+https://www.youtube.com/watch?v=MmRmxzrr4lk
+
+18. Advanced Dependency Injection without classes - Fun Fun Function
+https://www.youtube.com/watch?v=6YBV1cKRqzU
+
+19. Dependency Injection without classes - Fun Fun Function
+https://www.youtube.com/watch?v=sD94szvFqGw
+
+20. Error handling Promises in JavaScript - Fun Fun Function
+https://www.youtube.com/watch?v=f8IgdnYIwOU
+
+21. Factory Functions in JavaScript
+https://www.youtube.com/watch?v=ImwrezYhw4w
+
+22. async / await in JavaScript - What, Why and How - Fun Fun Function
+https://www.youtube.com/watch?v=568g8hxJJp4
+
+23. Class keyword - Object Creation in JavaScript P7 - Fun Fun Function
+https://www.youtube.com/watch?v=Tllw4EPhLiQ
+
+24. Code duplication vs generalisation - Q&A P3 - Fun Fun Function
+https://www.youtube.com/watch?v=H5FdjjEjdZ4
+
+25. __proto__ vs prototype - Object Creation in JavaScript P5 - FunFunFunction #52
+https://www.youtube.com/watch?v=DqGwxR_0d1M
+
+26. Object.create - Object Creation in JavaScript P6 - FunFunFunction #57
+https://www.youtube.com/watch?v=CDFN1VatiJA
+
+27. The 'new' keyword - Object Creation in JavaScript P4 - FunFunFunction #50
+https://www.youtube.com/watch?v=Y3zzCY62NYc
+
+28. Examples of this and bind - Object Creation in JavaScript P2 - FunFunFunction #44
+https://www.youtube.com/watch?v=PIkA60I0dKU
+
+29. bind and this - Object Creation in JavaScript P1 - FunFunFunction #43
+https://www.youtube.com/watch?v=GhbhD1HR5vk
+
+30. Prototype basics - Object Creation in JavaScript P3 - FunFunFunction #46
+https://www.youtube.com/watch?v=YkoelSTUy7A
+
+31. var, let and const - What, why and how - ES6 JavaScript Features
+https://www.youtube.com/watch?v=sjyJBL5fkp8
+
+32. Arrow functions in JavaScript - What, Why and How - FunFunFunction #32
+https://www.youtube.com/watch?v=6sQDTgOqh-I
+
+33. Reduce Advanced - Part 4 of Functional Programming in JavaScript
+https://www.youtube.com/watch?v=1DMolJ2FrNY
+
+34. Promises - Part 8 of Functional Programming in JavaScript
+https://www.youtube.com/watch?v=2d7s3spWAzo
+
+35. Recursion - Part 7 of Functional Programming in JavaScript
+https://www.youtube.com/watch?v=k7-N8R0-KY4
+
+36. Currying - Part 6 of Functional Programming in JavaScript
+https://www.youtube.com/watch?v=iZLP4qOwY8I
+
+37. Closures - Part 5 of Functional Programming in JavaScript
+https://www.youtube.com/watch?v=CQqwU2Ixu-U
+
+38. Higher-order functions - Part 1 of Functional Programming in JavaScript
+https://www.youtube.com/watch?v=BMUiFMZr7vk
+
+39. Map - Part 2 of Functional Programming in JavaScript
+https://www.youtube.com/watch?v=bCqtb-Z5YGQ
+
+40. Reduce basics - Part 3 of Functional Programming in JavaScript
+https://www.youtube.com/watch?v=Wl98eZpkp-c
+
+41. Destructuring: What, Why and How - Part 1 of ES6 JavaScript Features
+https://www.youtube.com/watch?v=PB_d3uBkQPs
+
+42. Progressive Rendering: Improve Performance on Slower Networks - Dinesh Pandiyan | JSConf Hawaii 2020
+https://www.youtube.com/watch?v=iYW7vKCqN6g
+
+43. The Art of Code Comments - Sarah Drasner | JSConf Hawaii 2020
+https://www.youtube.com/watch?v=yhF7OmuIILc
+
+44. A Crash Course on Worker Threads - Rich Trott | JSConf Hawaii 2020
+https://www.youtube.com/watch?v=GRb-XQ5JRA8
+
+45. How to Wait - Max Goodhart | JSConf Hawaii 2020
+https://www.youtube.com/watch?v=UTol97sYpSI
+
+46. Parsing Parsers - Jenna Zeigen | JSConf Hawaii 2020
+https://www.youtube.com/watch?v=rvQP2RTxEH8
+
+47. From Brazil to Berlin by Vinicius Kiatkoski Neves | Community Lounge | JSConf EU 2019
+https://www.youtube.com/watch?v=4jBKi9Hp2Ug
+
+48. Algorithms and Their Habitat by Vitalii Bobrov | JSConf Budapest 2019
+https://www.youtube.com/watch?v=5JsQ7mvUeSU
+
+49. Don't block the event loop!JavaScript Async for Effortless UX|Jaeseok Kang|JSConf Korea 2019(en sub)
+https://www.youtube.com/watch?v=c7C8IcRqUUg
+
+50. JSConf.Asia 2019 - Day 3 - Live from Singapore
+https://www.youtube.com/watch?v=facKhfPmeAs
+
+51. Jake Archibald: In The Loop - JSConf.Asia
+https://www.youtube.com/watch?v=cCOL7MC4Pl0
+
+
 
 javascript Algorithms
 
 1. https://github.com/mgechev/javascript-algorithms
 
 2. https://github.com/trekhleb/javascript-algorithms
+
+
+JUN LIST:--
+
+Pendling-
+1. Purifying Typescript - Timothy Clifford
+https://www.youtube.com/watch?v=huIHUim76AM
+
+2. Busy TypeScript Developer’s Guide to Advanced TypeScript | Ted Neward
+https://www.youtube.com/watch?v=wD5WGkOEJRs
+
+3. TypeScript at Google
+https://www.youtube.com/watch?v=sjov1k5jexA
+
+4. Object Oriented vs Functional Programming with TypeScript
+https://www.youtube.com/watch?v=fsVL_xrYO0w
+
+5. Composition over Inheritance
+https://www.youtube.com/watch?v=wfMtDGfHWpA
+
