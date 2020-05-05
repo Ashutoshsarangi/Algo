@@ -58,9 +58,6 @@ https://www.youtube.com/watch?v=sD94szvFqGw
 20. Error handling Promises in JavaScript - Fun Fun Function
 https://www.youtube.com/watch?v=f8IgdnYIwOU
 
-21. Factory Functions in JavaScript
-https://www.youtube.com/watch?v=ImwrezYhw4w
-
 22. async / await in JavaScript - What, Why and How - Fun Fun Function
 https://www.youtube.com/watch?v=568g8hxJJp4
 

@@ -1,2 +1,5 @@
 1. Factory Functions
 Ans :- https://www.youtube.com/watch?v=ImwrezYhw4w
+
+2. In 3 minutes, JavaScript loading of scripts (async, defer)
+https://www.youtube.com/watch?v=WlkHxjTrmqs
