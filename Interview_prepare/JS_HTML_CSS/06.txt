@@ -1,0 +1,10 @@
+The Main Link is here
+https://www.youtube.com/watch?v=yo3MJPcVJc8
+Top 10 JavaScript Interview Questions ( Part 2 )
+
+1. prototypical Inheritance
+2. Function Declaration and Expression.
+3. What is Promises and why to use it.
+4. setTimeout()
+5. what is Clouser How to use it.
+6. See the End Part of the Video For geetting How to Interview
