@@ -1,0 +1,8 @@
+Css Interview Question and Answer
+https://www.youtube.com/watch?v=feueV0nz7Tk
+
+1. What is Shadow Dom.
+2. how to build a traiangle
+3. What are Psedo elements in Css (:after, :before)
+4. What is Data-attributes
+
