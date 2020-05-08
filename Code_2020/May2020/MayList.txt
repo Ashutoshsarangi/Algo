@@ -5,6 +5,8 @@ May Completed:--
 50. FACEBOOK - ADD BINARY (LeetCode)
 1. Dynamic programming (Fibonaci Series)
 2. Dynamic Programming (Coin Change Problem Number of ways to get total | Dynamic Programming | Algorithms)
+3. Coin Change Problem: Minimum number of coins Dynamic Programming
+
 
 
 
