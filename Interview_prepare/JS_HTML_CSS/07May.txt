@@ -1,0 +1,11 @@
+Css Interview question
+https://www.youtube.com/watch?v=ZohZS6xLYE4&list=PL7pEw9n3GkoWn5TcqAdmSzXcvC3d_tfAh&index=3
+
+
+1. What is Box Model ??
+2. What is specificity.
+3. How to allign (Div inside Div)
+4. display none vs Visibility hidden
+5. position absolute vs position relative
+
+Completed the above Link
