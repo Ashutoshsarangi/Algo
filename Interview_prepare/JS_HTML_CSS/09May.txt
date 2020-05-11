@@ -1,0 +1,5 @@
+1. Html 5 Tags
+2. !DocType
+3. Metatags
+4. CharSets
+5. en='eng'

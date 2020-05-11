@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=7UAaIHQfYcQ
+
+1. what is webworker
+2. new Media elements in html5
+3. html5 vs Flash
+4. html5 web storage

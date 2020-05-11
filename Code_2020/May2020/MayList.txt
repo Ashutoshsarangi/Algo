@@ -6,6 +6,8 @@ May Completed:--
 1. Dynamic programming (Fibonaci Series)
 2. Dynamic Programming (Coin Change Problem Number of ways to get total | Dynamic Programming | Algorithms)
 3. Coin Change Problem: Minimum number of coins Dynamic Programming
+4. Json Sorting (Not Json Array Sort)
+59. GOOGLE - SORT CHARACTERS BY FREQUENCY (LeetCode)
 
 
 
@@ -37,6 +39,12 @@ Need to Be Completed-->
 52. AMAZON - FLOOD FILL (LeetCode)
 53. GOOGLE CODING INTERVIEW QUESTION - REVERSE LINKED LIST (LeetCode)
 54. FACEBOOK CODING INTERVIEW QUESTION - DECODE WAYS (LeetCode)
+55. GOOGLE - BINARY TREE LEVEL ORDER TRAVERSAL (LeetCode)
+56. FACEBOOK CODING INTERVIEW QUESTION - MEETING ROOMS II (LeetCode)
+57. AMAZON CODING INTERVIEW QUESTION - K CLOSEST POINTS TO ORIGIN (LeetCode)
+58. GOOGLE - MAX AREA OF ISLAND (LeetCode)
+
+
 
 
 
