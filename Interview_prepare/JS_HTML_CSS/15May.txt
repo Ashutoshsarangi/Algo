@@ -1,0 +1,33 @@
+https://www.toptal.com/javascript/interview-questions
+
+1. var a={},
+    b={key:'b'},
+    c={key:'c'};
+
+a[b]=123;
+a[c]=456;
+
+console.log(a[b]);  
+
+2. console.log((function f(n){return ((n > 1) ? n * f(n-1) : n)})(10));
+
+3. Testing your this knowledge in JavaScript: What is the output of the following code?
+
+4. (function () {
+    try {
+        throw new Error();
+    } catch (x) {
+        var x = 1, y = 2;
+        console.log(x);
+    }
+    console.log(x);
+    console.log(y);
+})();
+
+5. var x = 21;
+var girl = function () {
+    console.log(x);
+    var x = 20;
+};
+girl ();
+

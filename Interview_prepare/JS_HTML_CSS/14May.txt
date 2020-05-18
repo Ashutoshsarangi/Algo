@@ -1,0 +1,49 @@
+https://www.toptal.com/javascript/interview-questions
+
+1. function isInteger(x) { return (x ^ 0) === x; } 
+The following solution would also work, although not as elegant as the one above:
+
+function isInteger(x) { return Math.round(x) === x; }
+Note that Math.ceil() or Math.floor() could be used equally well (instead of Math.round()) in the above implementation.
+
+Or alternatively:
+
+function isInteger(x) { return (typeof x === 'number') && (x % 1 === 0); }
+One fairly common incorrect solution is the following:
+
+function isInteger(x) { return parseInt(x, 10) === x; }
+
+2. console.log(sum(2,3));   // Outputs 5
+console.log(sum(2)(3));  // Outputs 5
+
+Ans:-
+
+3. var arr1 = "john".split('');
+var arr2 = arr1.reverse();
+var arr3 = "jones".split('');
+arr2.push(arr3);
+console.log("array 1: length=" + arr1.length + " last=" + arr1.slice(-1));
+console.log("array 2: length=" + arr2.length + " last=" + arr2.slice(-1));
+
+4. 
+console.log(1 +  "2" + "2");
+console.log(1 +  +"2" + "2");
+console.log(1 +  -"1" + "2");
+console.log(+"1" +  "1" + "2");
+console.log( "A" - "B" + "2");
+console.log( "A" - "B" + 2);
+
+5. The following recursive code will cause a stack overflow 
+if the array list is too large. How can you fix this and still retain the 
+recursive pattern?
+
+var list = readHugeList();
+
+var nextListItem = function() {
+    var item = list.pop();
+
+    if (item) {
+        // process the list item...
+        setTimeout( nextListItem, 0);
+    }
+};

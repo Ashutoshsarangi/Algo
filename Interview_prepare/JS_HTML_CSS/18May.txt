@@ -1,0 +1,17 @@
+http://mcqspdfs.blogspot.com/2013/08/60-top-javascript-multiple-choice.html
+
+21.  What does the <noscript> tag do?
+A.  Enclose text to be displayed by non-JavaScript browsers.
+B.   Prevents scripts on the page from executing.
+C.  Describes certain low-budget movies.
+D.  None of the above
+ Ans: A
+
+
+https://www.geeksforgeeks.org/javascript-quiz-set-3/?ref=rp
+
+Javascript Intervire Set 1
+Javascript Intervire Set 2
+Javascript Intervire Set 3
+
+

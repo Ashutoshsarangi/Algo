@@ -1,0 +1,32 @@
+http://mcqspdfs.blogspot.com/2013/08/60-top-javascript-multiple-choice.html
+
+1. 1.  Why so JavaScript and Java have similar name?
+A.  JavaScript is a stripped-down version of Java
+B.  JavaScript's syntax is loosely based on Java's
+C.  They both originated on the island of Java
+D.  None of the above
+Ans: B
+
+2.  When a user views a page containing a JavaScript program, which machine actually executes the script?
+A.  The User's machine running a Web browser
+B.   The Web server
+C.  A central machine deep within Netscape's corporate offices
+D.  None of the above
+Ans:  A
+
+3.  ______ JavaScript is also called client-side JavaScript.
+A.  Microsoft
+B.  Navigator
+C.  LiveWire
+D.  Native
+Ans: B
+
+4.  __________ JavaScript is also called server-side JavaScript.
+A.  Microsoft
+B.   Navigator
+C.  LiveWire
+D.  Native
+ Ans: C
+
+ 5. For Of and For in loop
+ https://alligator.io/js/for-of-for-in-loops/
