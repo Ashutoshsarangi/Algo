@@ -1,0 +1,36 @@
+Chapter --> Variable Declarations
+
+going through how var works
+
+next Start 10/06-->
+
+Variable capturing quirks #
+For more information on temporal dead zones, see relevant content 
+on the Mozilla Developer Network.
+
+next Start 11/06 -->
+
+Re-declarations and Shadowing
+The act of introducing a new name in a more nested scope is called shadowing.
+
+12/06-->
+
+Function Matrix()
+
+
+13/06 -->
+
+De Structuring
+
+
+14/06-->
+
+Property renaming #
+
+15/06-->
+Spread 
+
+Spread #
+The spread operator is the opposite of destructuring. It allows you to spread an array into another array, 
+or an object into another object. For example:
+

@@ -1,0 +1,36 @@
+Static :-->
+
+We can Access Data members and Member Functions with out creating instance(Object)
+of it.
+
+We can directly call the data member and member functions using Class name.
+
+Rule:-
+1. The Static data members we should use at the top of varialbe declaration in the class.
+
+2. Similar pattern the static member functions should be at the 1 declaration of functions.
+After Constructor the 1 function which we need to write is Static functions.
+
+3. Static Functions only return static variables.
+
+Ex:-
+Class TEST{
+  static name=  'Ashu'
+  private age = 0;
+  constructor(val){
+    this.age= val
+  }
+
+  public static getDefaultAge(){
+    return this.age;
+  }
+}
+
+// We can call it
+TEST.name;
+
+// 
+TEST.getDefaultAge();
+
+These Above 2 code give me value,
+if the function is not static it will show me error.(Verified)

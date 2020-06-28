@@ -1,0 +1,17 @@
+Today we are going to Complete
+
+Null and Undefined
+Never
+Object
+Type assertions
+A note about ‘let’
+Introduction #
+
+1. never and Object
+2. need to know bigInt
+
+3. Type assertions 
+it is similar to type casting
+
+Note: on LET
+es16 --> add on 

@@ -1,0 +1,11 @@
+17:-
+1. Interfaces and Optional Properties
+
+
+18:-
+1. Readonly properties 
+
+
+19-:-
+
+Excess Property Checks

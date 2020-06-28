@@ -1,0 +1,18 @@
+Here We Complted 
+
+Tuple
+Enum
+Any
+Void
+
+4. Tuple
+  // Declare a tuple type
+  let x: [string, number, number];
+  // Initialize it
+  x = ["hello", 10];
+  console.log(x[0], x[1])
+
+5. Void
+function warnUser(): void {
+    console.log("This is my warning message");
+}

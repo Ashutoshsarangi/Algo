@@ -1,0 +1,89 @@
+1. Shallow and Deep Copying
+2. For of and for in
+3. Use of Static
+4. Functional Instances
+5. tuples
+6. For more information on temporal dead zones, see relevant content 
+on the Mozilla Developer Network.
+7. shadowing(Variable Declaration)
+8. Destructureing
+    let [, second, , fourth] = [1, 2, 3, 4];
+    console.log(second); // outputs 2
+    console.log(fourth); // outputs 4
+
+9. Tuple destructuring #
+  let tuple: [number, string, boolean] = [7, "hello", true];
+  let [a, b, c] = tuple; // a: number, b: string, c: boolean
+  let [a, b, c, d] = tuple; // Error, no element at index 3
+  let [a, ...bc] = tuple; // bc: [string, boolean]
+  let [a, b, c, ...d] = tuple; // d: [], the empty tuple
+
+10. Object destructuring #
+  let o = {
+    a: "foo",
+    b: 12,
+    c: "bar"
+  };
+  let { a, b } = o; 
+
+11. Property renaming #
+  let { a: newName1, b: newName2 } = o;
+  let { a, b }: { a: string, b: number } = o;
+  Note:-
+    Confusingly, the colon here does not indicate the type. The type, if you specify it, 
+    still needs to be written after the entire destructuring:
+
+12. Spread Operator
+  Spread #
+  The spread operator is the opposite of destructuring. 
+  It allows you to spread an array into another array, 
+  or an object into another object. For example:
+
+  let defaults = { food: "spicy", price: "$$", ambiance: "noisy" };
+  let search = { ...defaults, food: "rich" };
+  Now search is { food: "rich", price: "$$", ambiance: "noisy" }. 
+
+  Object spreading is more complex than array spreading. Like array spreading, 
+  it proceeds from left-to-right, but the result is still an object.
+   This means that properties that come later in the spread object overwrite 
+   properties that come earlier. So if we modify the previous example to 
+   spread at the end:
+
+  let defaults = { food: "spicy", price: "$$", ambiance: "noisy" };
+  let search = { food: "rich", ...defaults };
+
+  Then the food property in defaults overwrites food: "rich", 
+  which is not what we want in this case.
+
+Object spread also has a couple of other surprising limits. 
+
+First, it only includes an objects’ own, enumerable properties. Basically, that means you lose methods when you spread instances of an object:
+
+Second, the TypeScript compiler doesn’t allow spreads of type parameters from generic functions. That feature is expected in future versions of the language.
+
+class C {
+  p = 12;
+  m() {
+  }
+}
+let c = new C();
+let clone = { ...c };
+clone.p; // ok
+clone.m(); // error!
+
+13. read Only Interfaces
+
+  You can construct a Point by assigning an object literal. After the assignment, x and y can’t be changed.
+
+  let p1: Point = { x: 10, y: 20 };
+  p1.x = 5; // error!
+
+14. ReadOnly vs Const 
+
+  The easiest way to remember whether to use readonly or const is to ask whether you’re using it on a variable or a property. Variables use const whereas properties use readonly.
+
+15. Excess Property Checks
+
+  Index Signature
+    We’ll discuss index signatures in a bit, but here we’re saying a SquareConfig can have any number of properties, and as long as 
+    they aren’t color or width, their types don’t matter.

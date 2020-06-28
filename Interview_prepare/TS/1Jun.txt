@@ -1,0 +1,42 @@
+Here We are Refering Official Document for the TS Preparation.
+Link -> https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+Basic Types
+
+Boolean
+Number
+String
+Array
+Tuple
+Enum
+Any
+Void
+Null and Undefined
+Never
+Object
+Type assertions
+A note about ‘let’
+
+# Today We are going to complete
+
+Boolean
+Number
+String
+Array
+
+
+1. Boolean
+
+2. Number
+As in JavaScript, all numbers in TypeScript are floating point values.
+let octal: number = 0o744;
+console.log(octal)
+o/p:-> 484
+let binary: number = 0b111;
+console.log(binary)
+o/p -> 7
+
+3. Array
+let list: number[] = [1, 2, 3];
+let list: Array<number> = [1, 2, 3];
+

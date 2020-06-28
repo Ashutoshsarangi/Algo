@@ -1,0 +1,15 @@
+Deep Cloneing and Shallow Cleaning
+
+let a = {
+  name: 'Ashu',
+  age: 123,
+   address: {
+    city:'Mumbai'
+  }
+};
+// let b = { ...a };
+// b.name= 'Ravi'
+let b = JSON.parse(JSON.stringify(a));
+b.address.city = 'Pune';
+console.log(a);
+console.log(b)
