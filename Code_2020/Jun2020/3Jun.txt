@@ -1,0 +1,3 @@
+What is Brute Force Algorithm ??
+
+This Algorithm simply tries all possibilities until a satisfactory solution is found. 

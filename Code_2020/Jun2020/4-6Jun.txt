@@ -1,0 +1,21 @@
+4:---
+Started reading Guide to Competitive Programming Book
+
+5---
+
+1.1.2 Tips for Practicing
+
+
+6:--
+
+1.2 About This Book
+
+7:0---
+
+1.3 CSES Problem Set
+
+8:--
+Algorithm. Explain the Simple
+
+9 & 10. 11 ---
+Need to have environment to write and Upload the C++ Code
