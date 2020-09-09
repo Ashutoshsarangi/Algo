@@ -87,3 +87,54 @@ clone.m(); // error!
   Index Signature
     We’ll discuss index signatures in a bit, but here we’re saying a SquareConfig can have any number of properties, and as long as 
     they aren’t color or width, their types don’t matter.
+
+
+16. Function Types  
+  In addition to describing an object with properties, 
+  interfaces are also capable of describing function types.
+
+  For function types to correctly type check, the names of the parameters do not need to match. We could have, for example, 
+  written the above example like this:
+
+17. Indexable Types
+  Indexable types have an index signature that describes the types we can use to index into the object, along with the
+
+18. 
+  interface NumberDictionary {
+    [index: string]: number;
+    length: number; // ok, length is a number
+    name: string; // error, the type of 'name' is not a subtype of the indexer
+                  // Property 'name' of type 'string' is not assignable to string index type 'number'.
+                
+}
+
+19. 
+interface NumberOrStringDictionary {
+  [index: string]: number | string;
+  length: number; // ok, length is a number
+  name: string; // ok, name is a string
+}
+
+20. ReadOnly Index Signature.
+  interface ReadonlyStringArray {
+  readonly [index: number]: string;
+}
+
+let myArray: ReadonlyStringArray = ["Alice", "Bob"];
+myArray[2] = "Mallory"; // error!
+Index signature in type 'ReadonlyStringArray' only permits reading.
+
+21. Difference between the static and instance sides of classes #
+
+22. prototype-based inheritance to build up reusable components, 
+
+23. TypeScript, each member is public by default.
+24. 
+# --> Private
+  class Animal {
+    #name: string;
+    constructor(theName: string) { this.#name = theName; }
+}
+
+new Animal("Cat").#name; // Property '#name' is not accessible outside 
+class 'Animal' because it has a private identifier.

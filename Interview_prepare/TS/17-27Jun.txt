@@ -1,0 +1,61 @@
+17:-
+1. Interfaces and Optional Properties
+
+
+18:-
+1. Readonly properties 
+
+
+19-:-
+
+Excess Property Checks
+
+
+20:-
+
+
+Function Types
+
+21 & 22:
+  Indexable Types
+    Finally, you can make index signatures readonly in order to prevent assignment to their indices:
+
+23. 
+
+  Class Types #
+  It need to be study Again (Static and Instance Part)
+
+24. 
+ Again Had a look into class Types(Bit Confusing)
+
+25.
+
+Extending Interfaces
+
+  interface Shape {
+    color: string;
+}
+
+interface PenStroke {
+    penWidth: number;
+}
+
+interface Square extends Shape, PenStroke {
+    sideLength: number;
+}
+
+let square = {} as Square;
+square.color = "blue";
+square.sideLength = 10;
+square.penWidth = 5.0;
+
+
+26. 
+
+Hybrid Types 
+
+27. 
+
+Interfaces Extending Classes #
+
+  Good Example in Docs
